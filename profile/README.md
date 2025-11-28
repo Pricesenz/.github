@@ -24,9 +24,13 @@
 - [Partnerships](#partnerships)
 - [Contact](#contact)
 
+---
+
 ## What We Do
 
-### AI & Digital Transformation
+<details open>
+<summary><b>🎯 AI & Digital Transformation</b></summary>
+<br>
 
 ```
 Conversational AI        →  80% automated query handling
@@ -43,19 +47,31 @@ Legacy Modernization     →  Cloud platform migration
 - Data engineering and analytics platforms
 - DevOps and microservices architecture
 
-### Government Solutions
+</details>
+
+<details open>
+<summary><b>🏛️ Government Solutions</b></summary>
+<br>
 
 - **IT Staff Augmentation** — Texas DIR ITSAC contract serving state agencies, local governments, school districts
 - **Federal Staffing** — Scientific, IT, and administrative talent for NIH, VA
 - **M/WBE Partnerships** — Diversity participation for large-scale infrastructure projects
 - **Contract Vehicles** — Pre-vetted vendor access via TIPS-USA, Texas DIR
 
-### Talent Services
+</details>
+
+<details open>
+<summary><b>👥 Talent Services</b></summary>
+<br>
 
 - Technical hiring and staff augmentation
 - **1,400+ roles filled since 2022**
 - Focus areas: Scientific research, healthcare IT, administrative operations
 - Rapid deployment with quality screening
+
+</details>
+
+---
 
 ## Track Record
 
@@ -75,6 +91,8 @@ Legacy Modernization     →  Cloud platform migration
 > "The PriceSenz team, without question, has been the highest impact partner thus far. They played a critical role in modernizing our legacy app... They are also our partner of choice, as we integrated the latest advances in AI/ML into our proprietary fu.sion AI platform."  
 > — Saurabh Kapoor, Tower Strategy Group
 
+---
+
 ## Impact Metrics
 
 | Metric | Result | Area |
@@ -86,30 +104,41 @@ Legacy Modernization     →  Cloud platform migration
 | **1,400+** | Roles filled since 2022 | Talent Services |
 | **10x** | Rapid delivery acceleration | Development |
 
+---
+
 ## Technology Stack
 
-### Cloud Platforms
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Oracle Cloud Infrastructure
+<details open>
+<summary><b>☁️ Cloud Platforms</b></summary>
+<br>
 
-### AI/ML
-- Amazon SageMaker
-- Dataiku
-- Custom ML workbenches
-- TensorFlow/PyTorch
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Integration
-- Salesforce
-- Apache Flink
-- RESTful APIs
-- Microservices
+</details>
 
-### Methodology
-- DevOps/CI-CD
-- Agile/Scrum
-- RPA
-- Cloud-native architecture
+<details open>
+<summary><b>🤖 AI/ML Platforms</b></summary>
+<br>
+
+![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Integration & DevOps</b></summary>
+<br>
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+
+</details>
 
 ### AI Solutions Portfolio
 
@@ -117,6 +146,8 @@ Legacy Modernization     →  Cloud platform migration
 - **Computer Vision** — Quality control inspection, monitoring systems, image analysis
 - **Predictive Analytics** — Forecasting, risk assessment, trend analysis
 - **AI Agents** — Autonomous workflow automation, intelligent process orchestration
+
+---
 
 ## Team
 
@@ -127,21 +158,23 @@ Founded in 2015 by two former Verizon executives frustrated with unreliable tech
 **Muhammed Shaphy** — *Co-founder & CEO*
 - 20+ years technology experience
 - Stanford PM certification
-- Former: Verizon, MCI Worldcom, NeST
+- Former: Verizon, MCI Worldcom, NeST Technologies
 - Co-founder: Aveta.ai, talentz.ai
-- STEM education advocate
+- STEM education advocate & robotics team coach
 
 **Bijith Moopen** — *Co-founder & COO*
 - 24+ years digital transformation
 - MS Computer Science, Georgia Tech
-- Former Verizon (enterprise integration)
-- 9-digit revenue projects
-- Founder: SunSenz (950+ KW solar)
+- Former Verizon (enterprise integration, 45+ legacy system migrations)
+- Led 9-digit revenue pricing transformation projects
+- Founder: SunSenz Solar (950+ KW installed capacity)
 
-**Mahendra Kumar** — *VP Government Operations*
-- SLED & Federal oversight
-- Government contracting expert
-- Client relationship management
+**Naeem Hadiq** — *Chief Product Strategist*
+- AI-first product development pioneer
+- Builds products at startup velocity with enterprise quality
+- Full-stack developer & DevOps engineer
+- Product strategy thought leader
+- Author on AI-first development practices
 
 ### Locations
 
@@ -151,15 +184,17 @@ Founded in 2015 by two former Verizon executives frustrated with unreliable tech
 
 **Team Size:** 50-60 across three continents
 
+---
+
 ## Credentials
 
 ### Certifications
 
-![ISO 9001:2015](https://img.shields.io/badge/ISO%209001-Quality%20Management-orange?style=flat-square)
-![ISO 27001:2015](https://img.shields.io/badge/ISO%2027001-Information%20Security-orange?style=flat-square)
-![NMSDC MBE](https://img.shields.io/badge/NMSDC-MBE-purple?style=flat-square)
-![Texas HUB](https://img.shields.io/badge/Texas-HUB-purple?style=flat-square)
-![NCTRCA MBE](https://img.shields.io/badge/NCTRCA-MBE-purple?style=flat-square)
+![ISO 9001:2015](https://img.shields.io/badge/ISO%209001-Quality%20Management-orange?style=for-the-badge)
+![ISO 27001:2015](https://img.shields.io/badge/ISO%2027001-Information%20Security-orange?style=for-the-badge)
+![NMSDC MBE](https://img.shields.io/badge/NMSDC-MBE-purple?style=for-the-badge)
+![Texas HUB](https://img.shields.io/badge/Texas-HUB-purple?style=for-the-badge)
+![NCTRCA MBE](https://img.shields.io/badge/NCTRCA-MBE-purple?style=for-the-badge)
 
 ### Government Registration
 
@@ -175,6 +210,8 @@ Status:             Active
 - **Texas DIR ITSAC** — IT Staff Augmentation Contract
 - **TIPS-USA** — Cooperative purchasing program
 - **NIH SOAR** — Scientific, Operations, Administrative Resources
+
+---
 
 ## Partnerships
 
@@ -193,6 +230,8 @@ Status:             Active
 
 - National Minority Supplier Development Council (NMSDC)
 - North Central Texas Regional Certification Agency (NCTRCA)
+
+---
 
 ## Contact
 
@@ -214,12 +253,12 @@ United States
 
 For government contracting inquiries:
 - **SAM.gov:** Search UEI XT9JJBZALQ29
-- **Texas DIR:** Vendor #: Available via DIR portal
+- **Texas DIR:** Vendor available via DIR portal
 - **M/WBE:** Certified for diversity participation requirements
 
 ---
 
-**Built for government agencies and enterprises who need technology partners that actually deliver.**
+### _"Building AI-first solutions that solve real problems for government and enterprise."_
 
 **Established 2015 • Dallas, Texas**
 
